@@ -1,0 +1,10 @@
+NOTES.md
+roadmap.txt
+object-detection/img/*
+road-segmentation/data/*
+road-segmentation/dont_data/*
+road-segmentation/attempt_2/datasets/*
+pedestrian-detection/data/*
+pedestrian-detection/model/*
+
+
